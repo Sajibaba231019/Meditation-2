@@ -1,0 +1,7 @@
+{
+  "name": "Zenith AI: Guided Meditation",
+  "description": "A guided meditation app that lets you generate custom sessions with unique visuals and voiceovers. Features an AI chatbot, image generator, image editor, and a voice lab.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
